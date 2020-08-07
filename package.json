@@ -35,7 +35,7 @@
     "marked": "^0.7.0",
     "ngx-img-cropper": "^8.0.1",
     "ngx-markdown": "^8.1.0",
-    "prismjs": "~1.17.1",
+    "prismjs": "~1.21.0",
     "rxjs": "6.5.3",
     "rxjs-compat": "^6.5.3",
     "zone.js": "0.10.2"
